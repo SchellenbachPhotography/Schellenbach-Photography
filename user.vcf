@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 15.2.2//EN
+N:Schellenbach;Michael;;;
+FN: Michael Schellenbach 
+ORG:Schellenbach Photography & Design, LLC;
+TITLE:Owner / Lead Photographer
+EMAIL;type=INTERNET;type=WORK;type=pref:michael@schellenbachphotography.com
+TEL;type=WORK;type=VOICE:540 300 0898
+item1.ADR;type=WORK;type=pref:;;Stafford\, Virginia;;;
+item1.X-ABADR:sg
+item2.URL;type=pref:www.schellenbachphotography.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
